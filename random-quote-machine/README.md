@@ -1,3 +1,5 @@
 Random-quote-machine from FreeCodeCamp
 
-First project on Visual Code and live-server!
+First project on Visual Code, REACT and SASS and live-server!
+
+Available at : https://ckdoutcast.github.io/random-quote-machine-project/
